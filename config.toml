@@ -49,7 +49,7 @@ enableEmoji = true
         # you can add extra information after the name (HTML format is supported), such as icons
         post = ""
         name = "Posts"
-        url = "https://warthog18.github.io/loveit/posts/"
+        url = "http://localhost:1313/loveit/posts/"
         # title will be shown when you hover on this menu link.
         title = ""
         weight = 1
@@ -58,7 +58,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "Tags"
-        url = "https://warthog18.github.io/loveit/tags/"
+        url = "http://localhost:1313/loveit/tags/"
         title = ""
         weight = 2
       [[languages.en.menu.main]]
@@ -66,7 +66,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "Categories"
-        url = "https://warthog18.github.io/loveit/categories/"
+        url = "http://localhost:1313/loveit/categories/"
         title = ""
         weight = 3
       [[languages.en.menu.main]]
@@ -74,7 +74,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "Docs"
-        url = "https://warthog18.github.io/loveit/categories/documentation/"
+        url = "http://localhost:1313/loveit/categories/documentation/"
         title = ""
         weight = 4
       [[languages.en.menu.main]]
@@ -82,7 +82,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "About"
-        url = "https://warthog18.github.io/loveit/about/"
+        url = "http://localhost:1313/loveit/about/"
         title = ""
         weight = 5
       [[languages.en.menu.main]]
@@ -143,7 +143,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "https://warthog18.github.io/loveit/images/avatar.png"
+          avatarURL = "http://localhost:1313/loveit/images/avatar.png"
           # title shown in home page (HTML format is supported)
           title = ""
           # subtitle shown in home page
