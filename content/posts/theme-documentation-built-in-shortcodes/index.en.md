@@ -42,7 +42,7 @@ Example `figure` input:
 
 The rendered output looks like this:
 
-{{< figure src="/images/lighthouse.jpg" title="Lighthouse (figure)" >}}
+{{< figure src="/loveit/images/lighthouse.jpg" title="Lighthouse (figure)" >}}
 
 The HTML looks like this:
 
